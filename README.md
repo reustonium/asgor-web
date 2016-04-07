@@ -1,4 +1,3 @@
-asgor-web
-=========
+# Aphasia Support Group of Rochester
 
-Website for the Aphasia Support Group of Rochester
+Webpage
