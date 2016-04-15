@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Aphasia Support Group of Rochester
 tagline:          'An Apasia focused support group serving the greater Rochester area.'
-description:      'Building connections and communication skils.'
+description:      'Supporting and empowering persons with Aphasia and their caregivers.'
 url:              https://apasiasupportgroup.com
 baseurl:          /
 
@@ -17,6 +17,7 @@ author:
   url:            https://apasiasupportgroup.com
 
 paginate:         5
+paginate_path:    "news/page:num/"
 
 # Custom vars
 version:          0.1.0
