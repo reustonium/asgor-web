@@ -20,4 +20,4 @@ title: Resources
 * [More movies...](http://www.speechlessdoc.com/blog-summary/2015/1/11/5-films-about-aphasia)
 
 ## Books
-* [Apasia.org Book List](http://www.aphasia.org/resource/?cat=36&tag=books)
+* [Aphasia.org Book List](http://www.aphasia.org/resource/?cat=36&tag=books)

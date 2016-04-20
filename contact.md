@@ -7,7 +7,7 @@ title: Contact
 
 **Lisa Ruestow**, *M.A.CCC-SLP*
 
-Lisa has been a speech-language pathologist for over ten years. She has worked with individuals across the continuum in various settings. Her passion is helping individuals with aphasia which led her to found the Aphasia Support Group of Rochester in October 2012. She currently works at St.John's Home and for the Rochester Regional Health System
+Lisa has been a speech-language pathologist for over ten years. She has worked with individuals across the continuum in various settings. Her passion is helping individuals with aphasia which led her to found the Aphasia Support Group of Rochester in October 2012. She currently works at St.John's Home and for the Rochester Regional Health System.
 
 **Suzanne Johnston**, *M.A.,CCC-SLP*
 
