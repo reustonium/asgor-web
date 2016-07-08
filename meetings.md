@@ -2,9 +2,18 @@
 layout: page
 title: Meetings
 ---
-Thursday April 21, 2016 4:30pm - Nazareth College  
 
-Thursday May 19, 2016 4:30pm - St. John's Home  
+Thursday July 21st, 2016 4:30pm - St.John's Home
+
+Thursday August 18th, 2016 4:30pm - St. John's Home
+
+Thursday September 15th, 2016 4:30pm - Nazareth College 
+
+Thursday October 20th, 2016 4:30pm - Nazareth College 
+
+Thursday November 17th, 2016 4:30pm - place TBD
+
+Thursday December 15th, 2016 4:30pm - place TBD
 
 <hr>
 <h5>St. John's Home - Briggs Conference Room</h5>

@@ -17,6 +17,4 @@ Suzanne has been a speech-language pathologist in the Rochester community for ov
 
 Heather is a supervisor and instructor at Nazareth College in Communication Sciences and Disorders.
 
-**Cara Granger**, *M.A.,CCC-SLP*
-
-**Contact Information:** For more information email Lisa Ruestow at [Lruestow@gmail.com](mailto:Lruestow@gmail.com) or call (585) 760-2606.
+**Contact Information:** For more information email Lisa Ruestow at [Lruestow@gmail.com](mailto:Lruestow@gmail.com) or call (585) 484-1757.
