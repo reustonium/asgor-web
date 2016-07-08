@@ -8,6 +8,7 @@ A member shared [this article](https://www.washingtonpost.com/news/to-your-healt
 > The results, published in the journal Stroke, could have implications for our understanding of an array of disorders including traumatic brain injury, spinal cord injury and Alzheimer's if confirmed in larger-scale testing.
 
 The group also discussed two Facebook groups
+
 * [Aphasia Recovery Connection](https://www.facebook.com/aphasiaARC)
 * [SLP Talk](https://www.facebook.com/SLPTalk/)
 
