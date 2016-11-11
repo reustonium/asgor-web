@@ -3,17 +3,11 @@ layout: page
 title: Meetings
 ---
 
-Thursday July 21st, 2016 4:30pm - St.John's Home
-
-Thursday August 18th, 2016 4:30pm - St. John's Home
-
-Thursday September 15th, 2016 4:30pm - Nazareth College 
-
-Thursday October 20th, 2016 4:30pm - Nazareth College 
-
 Thursday November 17th, 2016 4:30pm - place TBD
+> Share a hobby or photograph
 
-Thursday December 15th, 2016 4:30pm - place TBD
+Thursday December 15th, 2016 4:30pm - Nazareth College, York Wellness and Rehab Institute Fireplace Lounge- 1st Floor.
+> If you wish, bring cookies to pass and an empty container to bring cookies home. 
 
 <hr>
 <h5>St. John's Home - Briggs Conference Room</h5>

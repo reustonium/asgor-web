@@ -4,7 +4,6 @@ title: Resources
 ---
 
 ## Websites 
-
 * [www.asha.org](www.asha.org)
 * [www.aphasia.org](www.aphasia.org)
 * [www.nysslha.org](www.nysslha.org)
@@ -12,6 +11,7 @@ title: Resources
 * [www.lifespan-roch.org](www.lifespan-roch.org)
 * [www.strokeeducator.com](www.strokeeducator.com)
 * [www.rochesterrehab.org/services/sportsnet/](www.rochesterrehab.org/services/sportsnet/)
+* [www.lifespan-roch.org/new-events/](www.lifespan-roch.org/new-events/)
 
 ## Movies
 * [Aphasia the Movie](http://www.aphasiathemovie.com/Aphasia_Project/Aphasia_the_Movie.html)
