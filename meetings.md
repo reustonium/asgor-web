@@ -5,10 +5,12 @@ title: Meetings
 
 
 Thursday November 17th, 2016 4:30pm - place TBD
+
 > Share a hobby or photograph
 
 Thursday December 15th, 2016 4:30pm - Nazareth College, York Wellness and Rehab Institute Fireplace Lounge- 1st Floor.
-> If you wish, bring cookies to pass and an empty container to bring cookies home. 
+
+> If you wish, bring cookies to pass and an empty container to bring cookies home.
 
 <hr>
 <h5>Nazareth College - York Wellness and Rehabilitation Institute, Room 255</h5>
