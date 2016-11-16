@@ -4,7 +4,7 @@ title: Meetings
 ---
 
 
-**Thursday November 17th**, 2016 4:30pm - place TBD
+**Thursday November 17th**, 2016 4:30pm - Nazareth College, York Wellness and Rehab Institute Fireplace Lounge- 1st Floor.
 
 > Share a hobby or photograph
 

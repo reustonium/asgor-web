@@ -3,12 +3,12 @@ layout: page
 title: Resources
 ---
 
-## Websites 
+## Websites
 * [www.asha.org](www.asha.org)
 * [www.aphasia.org](www.aphasia.org)
 * [www.nysslha.org](www.nysslha.org)
 * [www.grapelder.org](www.grapelder.org)
-* [www.lifespan-roch.org](www.lifespan-roch.org)
+* [www.lifespan-roch.org](http://www.lifespan-roch.org/)
 * [www.strokeeducator.com](www.strokeeducator.com)
 * [www.rochesterrehab.org/services/sportsnet/](www.rochesterrehab.org/services/sportsnet/)
 * [www.lifespan-roch.org/new-events/](www.lifespan-roch.org/new-events/)
