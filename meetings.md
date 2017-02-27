@@ -4,12 +4,10 @@ title: Meetings
 ---
 
 
-**Thursday January 19th**, 2016 4:30pm - Nazareth College, York Wellness and Rehab Institute Fireplace Lounge- 1st Floor.
-
-> Special Guest Speaker
+**Thursday March 16th**, 2016 4:30pm - Nazareth College, York Wellness and Rehab Institute Fireplace Lounge- 1st Floor.
 
 <hr>
-**Thursday February 16th**, 2016 4:30pm - Nazareth College, York Wellness and Rehab Institute Fireplace Lounge- 1st Floor.
+**Thursday April 20th**, 2016 4:30pm - Nazareth College, York Wellness and Rehab Institute Fireplace Lounge- 1st Floor.
 
 <hr>
 <h5>Nazareth College - York Wellness and Rehabilitation Institute, Room 255</h5>
