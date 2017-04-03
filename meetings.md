@@ -3,11 +3,9 @@ layout: page
 title: Meetings
 ---
 
-
-**Thursday March 23th**, 2016 4:30pm - Nazareth College, York Wellness and Rehab Institute Room 255.
-
-<hr>
 **Thursday April 20th**, 2016 4:30pm - Nazareth College, York Wellness and Rehab Institute Room 255.
+
+> We will be splitting up into two separate groups so caregivers and individuals with aphasia can meet separately.
 
 <hr>
 <h5>Nazareth College - York Wellness and Rehabilitation Institute, Room 255</h5>
