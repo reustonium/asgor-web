@@ -3,9 +3,13 @@ layout: page
 title: Meetings
 ---
 
-**Thursday April 20th**, 2016 4:30pm - Nazareth College, York Wellness and Rehab Institute Room 255.
+**Thursday June 15th** at 4:30pm - Aphasia Support Group Meeting at Nazareth College, York Wellness and Rehab Institute, room 255
 
-> We will be splitting up into two separate groups so caregivers and individuals with aphasia can meet separately.
+**Thursday July 20th** at 4:30pm - Aphasia Support Group Meeting at Nazareth College, York Wellness and Rehab Institute, room 255
+
+**Thursday August 3rd** - Movie Night at the Pittsford Plaza Cinema, time is to be determined but will be sometime around 4-5pm.
+
+**Thursday August 17th** at 4:30pm - Aphasia Support Group Meeting at Nazareth College, York Wellness and Rehab Institute, room 255
 
 <hr>
 <h5>Nazareth College - York Wellness and Rehabilitation Institute, Room 255</h5>
